@@ -1,0 +1,23 @@
+.sender{
+  margin-left: 20px;
+  margin-right: 50%;
+  padding: 5px;
+  width:150px;
+  height:40px;
+  border: 1px;
+  border-radius: 10px;
+  background-color:whitesmoke;
+}
+
+.scroll{
+    overflow: scroll;
+}
+    .receiver{
+      margin-left: 60%;
+      padding: 5px;
+      width:150px;
+      border-radius: 10px;
+      height:40px;
+      border: 1px;
+      background-color: #DCF8C6;
+    }
